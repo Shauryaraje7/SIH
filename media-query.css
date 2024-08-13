@@ -1,0 +1,23 @@
+@media (max-width: 768px) {
+    .chatbotimg {
+        height: 43vh;
+        position: fixed;
+        top: 74vh;
+        left: 53vw;
+        z-index: 1;
+        height: 27vh;
+        /* width: 20vw; */
+        /* border-radius: 50%; */
+        cursor: pointer;
+    }
+
+    .logo {
+        height: 4vh;
+
+
+    }
+
+    .brand-title {
+        display: flex;
+    }
+}
